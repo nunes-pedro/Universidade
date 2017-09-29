@@ -1,0 +1,13 @@
+libsofs17Blockviews.a
+libsofs17CZDealer.a
+libsofs17Direntries.a
+libsofs17Fileclusters.a
+libsofs17Freelists.a
+libsofs17ITDealer.a
+libsofs17Inodeattr.a
+libsofs17OCDealer.a
+libsofs17Probing.a
+libsofs17Rawdisk.a
+libsofs17SBDealer.a
+libsofs17Syscalls.a
+

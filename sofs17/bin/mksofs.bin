@@ -1,0 +1,6 @@
+#!/bin/bash
+
+ARCH=$(getconf LONG_BIT)
+
+${0}${ARCH} $*
+ 

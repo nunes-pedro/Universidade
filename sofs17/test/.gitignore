@@ -1,0 +1,8 @@
+createDisk
+mksofs.bin
+mksofs.bin64
+mksofs
+showblock
+showsizes
+sofsmount
+testtool
