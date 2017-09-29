@@ -1,0 +1,8 @@
+#!/bin/bash
+
+for f in ../bin/*; do
+   if [ ! -f `basename $f` ]; then
+      ln -s $f
+      echo "Creating symlink to $f"
+   fi
+done
